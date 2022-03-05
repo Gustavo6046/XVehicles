@@ -1,0 +1,4 @@
+mutators:
+  - class: XVehiclesSummon
+    name: XVehicles Debug Summon
+    description: Use mutate veh <1-6> to spawn a vehicle. For debugging purposes.
